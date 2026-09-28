@@ -1,8 +1,8 @@
 <resources>
     <string name="app_name">zadwygladegz</string>
-    <string name="tytul">Rejstruj Konto</string>
+    <string name="tytul">Rejestruj konto</string>
     <string name="emailLabel">Podaj e-mail:</string>
-    <string name="hasloLabel">Podaj hasło::</string>
+    <string name="hasloLabel">Podaj hasło:</string>
     <string name="passwordreplb">Powtórz hasło:</string>
     <string name="btnzatwierdz">ZATWIERDŹ</string>
     <string name="powitanie">Witaj ewa@poczta.pl</string>
