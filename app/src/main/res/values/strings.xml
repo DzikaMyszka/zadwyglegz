@@ -5,4 +5,5 @@
     <string name="hasloLabel">Podaj hasło::</string>
     <string name="passwordreplb">Powtórz hasło:</string>
     <string name="btnzatwierdz">ZATWIERDŹ</string>
+    <string name="powitanie">Witaj ewa@poczta.pl</string>
 </resources>
